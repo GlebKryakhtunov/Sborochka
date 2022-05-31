@@ -1,0 +1,328 @@
+[
+  {
+    "colors": [
+      
+      [ "#0369A1", null, null, null, "#16A34A", null, null, null ],
+      [ "#0369A1", "#0369A1", null, "#16A34A", "#16A34A", null, null, null ],
+      [ "#0369A1", "#0369A1", null, "#16A34A", "#16A34A", null, null, null ],
+      [ "#0369A1", "#0369A1", null, "#16A34A", "#16A34A", null, null, null ],
+      [ "#0369A1", null, null, null, "#16A34A", null, null, null ],
+      [ null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null ]
+    ],
+    "paths": [
+      [ 1, 1, 1, 1, 1, 0, 0, 0 ],
+      [ 1, 1, 1, 1, 1, 0, 0, 0 ],
+      [ 1, 1, 1, 1, 1, 0, 0, 0 ],
+      [ 1, 1, 1, 1, 1, 0, 0, 0 ],
+      [ 1, 1, 1, 1, 1, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+    ],
+    "figures": [
+      {
+        "size_x": 2,
+        "size_y": 2,
+        "min_size_x": 3,
+        "max_size_x": 4,
+        "min_size_y": 2,
+        "max_size_y": 3,
+        "coors": [
+          {
+            "x": 4,
+            "y": 2
+          },
+          {
+            "x": 3,
+            "y": 2
+          },
+          {
+            "x": 3,
+            "y": 3
+          },
+          {
+            "x": 4,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "size_x": 1,
+        "size_y": 3,
+        "min_size_x": 0,
+        "max_size_x": 0,
+        "min_size_y": 0,
+        "max_size_y": 2,
+        "coors": [
+          {
+            "x": 0,
+            "y": 2
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "size_x": 2,
+        "size_y": 2,
+        "min_size_x": 3,
+        "max_size_x": 4,
+        "min_size_y": 0,
+        "max_size_y": 1,
+        "coors": [
+          {
+            "x": 3,
+            "y": 1
+          },
+          {
+            "x": 4,
+            "y": 1
+          },
+          {
+            "x": 4,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "size_x": 2,
+        "size_y": 3,
+        "min_size_x": 0,
+        "max_size_x": 1,
+        "min_size_y": 1,
+        "max_size_y": 3,
+        "coors": [
+          {
+            "x": 0,
+            "y": 3
+          },
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 1,
+            "y": 2
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "size_x": 1,
+        "size_y": 1,
+        "min_size_x": 0,
+        "max_size_x": 0,
+        "min_size_y": 4,
+        "max_size_y": 4,
+        "coors": [
+          {
+            "x": 0,
+            "y": 4
+          }
+        ]
+      },
+      {
+        "size_x": 1,
+        "size_y": 1,
+        "min_size_x": 4,
+        "max_size_x": 4,
+        "min_size_y": 4,
+        "max_size_y": 4,
+        "coors": [
+          {
+            "x": 4,
+            "y": 4
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "type": "Easy",
+    "state": -1,
+    "category": "Cats",
+    "size_x": 5,
+    "size_y": 5
+  },
+  {
+    "colors": [
+      [ null, null, null, null, null, null, null ],
+      [ null, "#FDE047", "#FDE047", "#FDE047", null, null, null ],
+      [ null, "#FDE047", "#FDE047", "#FDE047", null, null, null ],
+      [ null, "#FDE047", "#FDE047", "#FDE047", null, null, null ],
+      [ null, "#FDE047", "#FDE047", "#FDE047", null, null, null ],
+      [ null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null ]
+    ],
+    "paths": [
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ]
+    ],
+    "figures": [
+      {
+        "size_x": 2,
+        "size_y": 2,
+        "min_size_x": 1,
+        "max_size_x": 2,
+        "min_size_y": 1,
+        "max_size_y": 2,
+        "coors": [
+          {
+            "x": 1,
+            "y": 2
+          },
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 2,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "size_x": 1,
+        "size_y": 2,
+        "min_size_x": 1,
+        "max_size_x": 1,
+        "min_size_y": 3,
+        "max_size_y": 4,
+        "coors": [
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 1,
+            "y": 4
+          }
+        ]
+      },
+      {
+        "size_x": 2,
+        "size_y": 3,
+        "min_size_x": 2,
+        "max_size_x": 3,
+        "min_size_y": 1,
+        "max_size_y": 3,
+        "coors": [
+          {
+            "x": 3,
+            "y": 1
+          },
+          {
+            "x": 3,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "size_x": 2,
+        "size_y": 1,
+        "min_size_x": 2,
+        "max_size_x": 3,
+        "min_size_y": 4,
+        "max_size_y": 4,
+        "coors": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 2,
+            "y": 4
+          }
+        ]
+      },
+      {
+        "size_x": 1,
+        "size_y": 1,
+        "min_size_x": 3,
+        "max_size_x": 3,
+        "min_size_y": 3,
+        "max_size_y": 3,
+        "coors": [
+          {
+            "x": 3,
+            "y": 3
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "type": "Medium",
+    "state": 0,
+    "category": "Cats",
+    "size_x": 7,
+    "size_y": 7
+  },
+  {
+    "colors": [
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    ],
+    "paths": [
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    ],
+    "figures": [],
+    "name": "",
+    "type": "Hard",
+    "state": 0,
+    "category": "Cats",
+    "size_x": 16,
+    "size_y": 16
+  }
+]
